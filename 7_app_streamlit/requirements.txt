@@ -1,0 +1,15 @@
+streamlit
+gunicorn
+pandas
+matplotlib
+seaborn
+plotly
+numpy
+scikit-learn
+python-dotenv
+
+openpyxl
+gurobipy
+gurobipy-pandas
+gurobi-machinelearning
+
